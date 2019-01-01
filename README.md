@@ -13,6 +13,9 @@ Sometimes when you are scrolling through Facebook you find out that there is an 
 Within the click on the icon you can rotate the image inside of Facebook after clicking on the image.
 
 ## How to install
+### Watch a quick video on how to install and use the extension <a href="https://youtu.be/7wN53_rzqO8">here</a>
+
+### Or
 - Download from <a href="https://github.com/HassanElDesouky/Rotaty/raw/master/Rotaty.crx">here</a>.
 - Drag and drop in Chrome.
 
