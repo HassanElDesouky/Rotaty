@@ -14,6 +14,7 @@
             "js": ["content.js"]
         }
     ],
+    "permissions": ["https://www.facebook.com/*"],
     "background": {
         "scripts": ["background.js"]
     },
