@@ -1,6 +1,10 @@
 {
     "manifest_version": 2,
     "name": "Rotaty",
+    "description": "Rotaty is a Chrome extension that rotates images inside of Facebook.",
+    "icons": {
+        "128": "rotateIcon128px.png"
+    },
     "version": "0.1",
     "content_scripts": [
         {
