@@ -18,7 +18,7 @@ chrome.runtime.onMessage.addListener(gotMessage);
 function gotMessage(message, sender, sendRsponse) {
     if (message.txt === "rotate") {
         console.log("rotating");
-        let imgClassName = document.getElementsByClassName("r0294ipz");
+        let imgClassName = document.querySelectorAll('[data-visualcompletion="media-vc-image"]');
         let img = imgClassName[0];
         rotate(img);
 		resize(img);
